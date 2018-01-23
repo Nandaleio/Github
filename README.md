@@ -1,2 +1,2 @@
-# Github
+# JWorms
 Projet LP SIL NTI
